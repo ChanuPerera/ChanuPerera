@@ -1,6 +1,8 @@
-- 👀 I’m interested in Video Games & 3D sculpting
-- 🌱 I’m currently learning Computer Science & SE
-
+- 💻 Intersted in UI/UX Designing
+- ✔️ Having experience with Java Swing 
+- 🤙 Average knowlege of HTML/CSS/PHP for WEB Developing
+- 🎮 I’m interested in Video Games & 3D sculpting
+- 👨‍🎓 I’m currently learning Computer Science & SE
 
 
 <!---
